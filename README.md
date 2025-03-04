@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a RESTful API for managing users, built with Node.js, Express.js, and MongoDB. The API provides CRUD operations for user management.
+This RESTful API for managing users is built with Node.js, Express.js, and MongoDB. The API provides CRUD operations for user management.
 
 ## Tech Stack
 
@@ -24,8 +24,8 @@ This is a RESTful API for managing users, built with Node.js, Express.js, and Mo
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/nodejs-user-api.git
-   cd nodejs-user-api
+   https://github.com/Bhumesh2001/Deep_Thoughts.git
+   cd Deep_Thoughts
    ```
 2. Install dependencies:
    ```sh
@@ -49,7 +49,7 @@ This is a RESTful API for managing users, built with Node.js, Express.js, and Mo
 http://localhost:3000/api
 ```
 
-### Users API
+### User API
 
 #### 1. Get All Users
 
