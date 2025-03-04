@@ -25,7 +25,7 @@ This RESTful API for managing users is built with Node.js, Express.js, and Mongo
 1. Clone the repository:
    ```sh
    https://github.com/Bhumesh2001/Deep_Thoughts.git
-   cd Deep_Thoughts
+   cd nodejs-user-api
    ```
 2. Install dependencies:
    ```sh
